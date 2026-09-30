@@ -1,0 +1,6 @@
+id=Touch+-on-Q2
+name=Touch Plus (RUBY) on Quest 2
+version=v1.0
+versionCode=1
+author=Mlsplays
+description=Sets the controller firmware/pairing props for Quest 3 Touch Plus on Quest 2 at boot (memory-only, no partition or overlay changes) and restarts the sensors HAL / controller management service if they started first.
