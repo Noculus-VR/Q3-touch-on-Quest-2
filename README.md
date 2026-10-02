@@ -1,6 +1,8 @@
 # Touch+-on-Quest-2
 Magisk module that implements Touch+ controller pairing and tracking on a Quest 2
 
+Shout out to @nikitas_vrmodding on TikTok for being the first recorded user of this project
+
  # Instructions
 
  1.  Root your headset with Singularity
