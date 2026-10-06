@@ -1,7 +1,7 @@
 # Touch+-on-Quest-2
 Magisk module that implements Touch+ controller pairing and tracking on a Quest 2
 
-NEW REPO https://github.com/Noculus-VR/Q3-touch-on-Quest-2
+NEW REPO https://github.com/Noculus-VR/Q3-touch-on-Quest-2 (if you see this text your on the right one)
 
 Shout out to @nikitas_vrmodding on TikTok for being the first recorded user of this project
 
